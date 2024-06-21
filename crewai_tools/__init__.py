@@ -24,4 +24,9 @@ from .tools import (
 	YoutubeChannelSearchTool,
 	YoutubeVideoSearchTool,
 	LlamaIndexTool
+	SerplyWebSearchTool,
+	SerplyNewsSearchTool,
+	SerplyScholarSearchTool,
+	SerplyWebpageToMarkdownTool,
+	SerplyJobSearchTool
 )
