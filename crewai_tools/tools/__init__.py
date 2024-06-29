@@ -27,3 +27,4 @@ from .youtube_channel_search_tool.youtube_channel_search_tool import (
     YoutubeChannelSearchTool,
 )
 from .youtube_video_search_tool.youtube_video_search_tool import YoutubeVideoSearchTool
+from .spider_tool.spider_tool import SpiderTool
